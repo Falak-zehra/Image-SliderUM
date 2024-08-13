@@ -2,7 +2,7 @@
 Image slider using  html , css and javascript
 The slider allows users to navigate between slides manually using "Next" and "Previous" buttons or automatically transition to the next slide every  second. The slider is fully responsive and can be easily integrated into any website.
 
-#Features
+# Features
 
 Automatic Slide Transition: The slider automatically transitions to the next slide every  second.
 
